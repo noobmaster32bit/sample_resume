@@ -1,0 +1,23 @@
+i {
+    color: navy;
+}
+
+.progress-bar {
+    background-color: navy;
+}
+
+footer {
+    background-color: navy;
+}
+
+.card-body span {
+    background-color: navy;
+}
+
+.card-title {
+    position: absolute;
+    bottom: 67%;
+    left: 10%;
+    font-size: xx-large;
+    color: white;
+}
